@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Playaz",
+  "base_artist": "Kanna",
+  "createdAt": "2026-03-23T15:13:00.552680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Southern Gangsta (feat. Rick Ross, Playaz Circle & Ving Rhames)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/01_Southern_Gangsta_(feat._Rick_Ross,_Playaz_Circle_&_Ving_Rhames)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Playaz Club",
+      "artist": "Rappin' 4-Tay",
+      "has_synced": true,
+      "path": "select/02_Playaz_Club_Rappin'_4-Tay.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Family Affair (Feat. Shareefa, Lil' Fate, Playaz Circle, NorfClk, Field Mob & I-20)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/03_Family_Affair_(Feat._Shareefa,_Lil'_Fate,_Playaz_Circle,_NorfClk,_Field_Mob_&_I-_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That's My Shit (Feat. Field Mob, Playaz Circle & NorfClk)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/04_That's_My_Shit_(Feat._Field_Mob,_Playaz_Circle_&_NorfClk)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Two Miles An Hour (Remix) (Feat. Playaz Circle)",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/05_Two_Miles_An_Hour_(Remix)_(Feat._Playaz_Circle)_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Playaz Club",
+      "artist": "Rappin' 4-Tay",
+      "has_synced": false,
+      "path": "select/06_Playaz_Club_Rappin'_4-Tay.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Kingz (feat. Get Low Playaz)",
+      "artist": "Game",
+      "has_synced": false,
+      "path": "select/07_Street_Kingz_(feat._Get_Low_Playaz)_Game.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Playaz Club",
+      "artist": "Rappin’ 4‐Tay",
+      "has_synced": true,
+      "path": "select/08_Playaz_Club_Rappin’_4‐Tay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Playaz Club",
+      "artist": "Rappin 4-Tay",
+      "has_synced": true,
+      "path": "select/09_Playaz_Club_Rappin_4-Tay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Southern Gangsta (Co-Starring Rick Ross, Playaz Circle & Ving Rhames) (Scored By STREETRUNNER)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/10_Southern_Gangsta_(Co-Starring_Rick_Ross,_Playaz_Circle_&_Ving_Rhames)_(Scored_By_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Street Kingz (feat. Get Low Playaz)",
+      "artist": "The Game",
+      "has_synced": false,
+      "path": "select/11_Street_Kingz_(feat._Get_Low_Playaz)_The_Game.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Some Playaz",
+      "artist": "Crime Mob",
+      "has_synced": true,
+      "path": "select/12_We_Some_Playaz_Crime_Mob.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Playaz in dis MF (feat. Hev Abi & LK)",
+      "artist": "Downtown Q' feat. Hev Abi & LK",
+      "has_synced": true,
+      "path": "select/13_Playaz_in_dis_MF_(feat._Hev_Abi_&_LK)_Downtown_Q'_feat._Hev_Abi_&_LK.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Playaz in dis MF",
+      "artist": "Downtown Q'/Hev Abi/LK",
+      "has_synced": true,
+      "path": "select/14_Playaz_in_dis_MF_Downtown_Q'_Hev_Abi_LK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Playaz",
+      "artist": "NB Ridaz",
+      "has_synced": false,
+      "path": "select/15_Playaz_NB_Ridaz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Playaz in dis MF",
+      "artist": "Downtown Q'",
+      "has_synced": true,
+      "path": "select/16_Playaz_in_dis_MF_Downtown_Q'.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "2 Miles an Hour(Remix) Ft. Playaz Circle",
+      "artist": "Ludacris",
+      "has_synced": false,
+      "path": "select/17_2_Miles_an_Hour(Remix)_Ft._Playaz_Circle_Ludacris.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Playaz",
+      "artist": "Kanna",
+      "has_synced": false,
+      "path": "select/pl_01_Playaz_Kanna.txt"
+    }
+  ]
+}
